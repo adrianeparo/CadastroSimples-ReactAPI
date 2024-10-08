@@ -13,10 +13,10 @@
 <br>
 <div>   
   <!--ICONS DE LINGUAGENS-->
-  <img align="center" alt="HTML" height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Vitejs-logo.svg/1200px-Vitejs-logo.svg.png">
-  <img align="center" alt="HTML" height="50" width="50" src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png">
-  <img align="center" alt="HTML" height="50" width="50" src="https://cdn.iconscout.com/icon/free/png-256/free-node-js-logo-icon-download-in-svg-png-gif-file-formats--nodejs-programming-language-pack-logos-icons-1174925.png?f=webp&w=256">
-  <img align="center" alt="HTML" height="50" width="50" src="https://seeklogo.com/images/M/mongodb-logo-D13D67C930-seeklogo.com.png">
+  <img align="center" alt="vite" height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Vitejs-logo.svg/1200px-Vitejs-logo.svg.png">
+  <img align="center" alt="React" height="50" width="50" src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png">
+  <img align="center" alt="Node" height="50" width="50" src="https://cdn.iconscout.com/icon/free/png-256/free-node-js-logo-icon-download-in-svg-png-gif-file-formats--nodejs-programming-language-pack-logos-icons-1174925.png?f=webp&w=256">
+  <img align="center" alt="DB" height="50" width="50" src="https://seeklogo.com/images/M/mongodb-logo-D13D67C930-seeklogo.com.png">
   </div> 
  <br>
 <p>Este projeto foi construído com as seguintes tecnologias:</p>
